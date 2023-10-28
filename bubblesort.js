@@ -5,7 +5,7 @@ Introduction to Bubble Sort :
     in a sequence and exchanging their positions if they are not in the correct sequence. 
     The algorithm's name, "Bubble Sort," comes from the way elements gradually ascend to their correct positions 
     in the sequence, akin to bubbles rising to the surface. This method is performed repeatedly until the sequence 
-    is entirely sorted.
+    is entirely sorted. 
 
     Working of Bubble Sort
 - Compare the First Two Elements: 

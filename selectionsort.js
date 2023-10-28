@@ -3,7 +3,7 @@
     an unsorted region. The sorted region is initially empty, while the unsorted region contains all the elements. 
     The algorithm repeatedly selects the smallest (or largest, depending on the ordering) element from the unsorted 
     region and moves it into the sorted region. This process continues until the unsorted region is empty and the sorted 
-    region contains all the elements.
+    region contains all the elements. 
 
     - Start with the Second Element: 
     - Compare and Insert: 

@@ -3,7 +3,7 @@
     a sorted and an unsorted region. The sorted region is initially just the first element, while the unsorted 
     region contains all the other elements. The algorithm repeatedly takes the first element from the unsorted 
     region and inserts it into the correct position in the sorted region. This process continues until the unsorted 
-    region is empty and the sorted region contains all the elements.
+    region is empty and the sorted region contains all the elements. 
 */
 
 function InsertionSort(arr)
